@@ -1,0 +1,8 @@
+Vehicle Type,passengers,freight
+LDVs,-0.2,0
+HDVs,0,-0.175
+aircraft,0,0
+rail,0,0.127
+ships,0,0
+motorbikes,-0.2,0
+,,
