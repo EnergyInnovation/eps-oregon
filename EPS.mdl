@@ -38999,7 +38999,10 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 1,252,251,244,0,0,0,0,0,128,0,-1--1--1,,1|(3420,173)|
 ///---\\\
 :L<%^E!@
+<<<<<<< Updated upstream
 1:NoSettings.vdfx
+=======
+>>>>>>> Stashed changes
 8:GraphDefinitions.vgd
 9:NoSettings
 22:$,Dollar,Dollars,$s
@@ -39029,7 +39032,11 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 22:Year,Years,yr,yrs
 23:0
 15:0,0,0,0,0,0
+<<<<<<< Updated upstream
 19:70,0
+=======
+19:80,0
+>>>>>>> Stashed changes
 27:0,
 34:0,
 4:Time
@@ -39620,6 +39627,11 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:hydrogen if
 6:hydrogen tf
 6:hydrogen vehicle
+<<<<<<< Updated upstream
+=======
+6:indst buy in region inputs
+6:indst buy in region outputs
+>>>>>>> Stashed changes
 6:indst CCS
 6:indst CCS X agriculture and forestry 01T03 X energy related emissions
 6:indst CCS X agriculture and forestry 01T03 X process emissions
