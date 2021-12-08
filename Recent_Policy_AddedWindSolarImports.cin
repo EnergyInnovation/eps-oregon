@@ -1,3 +1,6 @@
+Additional LCFS Percentage = 0.15
+Additional Minimum Required EV Sales Percentage[freight,LDVs] = 0.55
+Additional Minimum Required EV Sales Percentage[freight,HDVs] = 0.55
 Boolean Use Non BAU RPS Qualifying Resource Definitions = 1
 Electricity Sector Fraction of Potential Additional CCS Achieved[natural gas peaker es] = 1
 Percent Change in Electricity Imports[hard coal es] = -1
@@ -5,4 +8,3 @@ Percent Change in Electricity Imports[onshore wind es] = 2.73
 Percent Change in Electricity Imports[solar PV es] = 2.2
 Policy Implementation Schedule Selector = 4
 Renewable Portfolio Std Percentage = 1
-Additional LCFS Percentage = 0.15
