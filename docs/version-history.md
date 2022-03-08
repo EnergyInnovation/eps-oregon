@@ -4,6 +4,6 @@ title:	"Oregon EPS Version History"
 ---
 This page tracks updates that have been made with each version of the Oregon Energy Policy Simulator.
 
-### **{version number} - {release date}**
+### **3.3.1 - Mar 10, 2022**
 
-* {comment}
+* Official launch of the Oregon EPS
