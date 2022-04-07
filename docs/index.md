@@ -3,7 +3,7 @@ layout: page
 title:  "Oregon Energy Policy Simulator"
 ---
 
-The Oregon Energy Policy Simulator (EPS) is a free and open-source computer model created by [{partner name}]({partner url}).  It is adapted from software originally created by [Energy Innovation LLC](https://energyinnovation.org/).
+The Oregon Energy Policy Simulator (EPS) is a free and open-source computer model created by [Energy Innovation LLC](https://energyinnovation.org/), [Power Oregon](http://www.poweroregon.org/), and [the Green Energy Institute and the Lewis & Clark Law School](https://law.lclark.edu/centers/green_energy_institute/).  It is adapted from software originally created by [Energy Innovation LLC](https://energyinnovation.org/).
 
 ## Model Download
 
