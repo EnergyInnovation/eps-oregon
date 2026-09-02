@@ -1,7 +1,7 @@
 Unit: days,Days per Timeslice
 Winter,120
-Spring,92
-Summer,92
-Fall,61
-Summer Peak,0
-Winter Peak,0
+Spring,70
+Summer,90
+Fall,70
+Summer Peak,5
+Winter Peak,10
